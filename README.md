@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<br>
-<br>
-<br>
-
 - 🔭 I’m currently working on a top secret angular project to be reviled later this year!
 
 - 🌱 I’m currently learning a Masters in Software Development from the University of Tasmania.
@@ -14,13 +10,16 @@
 
 - 📫 How to reach me:
   - ✉️ joe.o.nicholas@gmail.com
-  - 🟦 <a href="www.linkedin.com/in/johannes-nicholas-541175230">Linked in</a>
+  - 🟦 <a href="https://www.linkedin.com/in/johannes-nicholas-541175230/">Linked in</a>
   - 🟣 <a href="https://discordapp.com/users/282428409685213184/">Discord</a>
-
-<br>
 
 - ⚡ Fun fact: my first few jobs were picking fruit! 🍒🍇🫐🍑
 
+<br>
+
+<script>
+  alert("test")
+</script>
 <!--
 **JohannesNicholas/JohannesNicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
