@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 <h2>I am <b>Joh</b>annes <b>Nic</b>holas </h2>
-https://joeyn.dev/
+<h2> https://joeyn.dev/ <h2>
 
 - 🔭 I’m currently working on a top secret angular project to be reviled later this year!
 
