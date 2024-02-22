@@ -2,11 +2,11 @@
 <h2>I am <b>Joh</b>annes <b>Nic</b>holas </h2>
 <h2> https://joeyn.dev/ </h2>
 
-- 🔭 I’m currently working on a top secret angular project to be reviled later this year!
+- 🔭 I’m currently working on Weighter.com.au!
 
-- 👨‍🎓 I’m currently studying Software Development at the <a href="https://www.utas.edu.au/">University of Tasmania</a>!
+- 👨‍🎓 I’m studied Software Development and Games & Creative Media at the <a href="https://www.utas.edu.au/">University of Tasmania</a>!
 
-- 💁‍♂️ I’m looking to collaborate on front end web development.
+- 💁‍♂️ I’m looking to find new team members for our projects at EdgeRed.
 
 - 💬 Ask me about Python, Firebase, Angular!
 
