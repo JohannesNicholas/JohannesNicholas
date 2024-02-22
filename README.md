@@ -17,6 +17,8 @@
 
 - 🎉 Fun fact: my first few jobs were picking fruit! 🍒🍇🫐🍑
 
+
+(Updated 22 Feb 2024) 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesNicholas&show_icons=true&layout=compact&theme=dark)
