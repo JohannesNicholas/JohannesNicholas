@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on Weighter.com.au!
 
-- 👨‍🎓 I’m studied Software Development and Games & Creative Media at the <a href="https://www.utas.edu.au/">University of Tasmania</a>!
+- 👨‍🎓 I studied Software Development and Games & Creative Media at the <a href="https://www.utas.edu.au/">University of Tasmania</a>!
 
-- 💁‍♂️ I’m looking to find new team members for our projects at EdgeRed.
+- 💁‍♂️ I’m looking to find new team members for our projects at Planoverse.
 
 - 💬 Ask me about Python, Firebase, Angular!
 
@@ -18,7 +18,7 @@
 - 🎉 Fun fact: my first few jobs were picking fruit! 🍒🍇🫐🍑
 
 
-(Updated 22 Feb 2024) 
+(Updated 1 Aug 2024) 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesNicholas&show_icons=true&layout=compact&theme=dark)
