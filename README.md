@@ -13,7 +13,6 @@
 - 📫 How to reach me:
   - ✉️ joe.o.nicholas@gmail.com
   - 🟦 <a href="https://www.linkedin.com/in/johannes-nicholas-541175230/">Linked in</a>
-  - 🟣 <a href="https://discordapp.com/users/282428409685213184/">Discord</a>
 
 - 🎉 Fun fact: my first few jobs were picking fruit! 🍒🍇🫐🍑
 
