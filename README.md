@@ -1,6 +1,6 @@
 <h1> Hello 👋 </h1>
-<h2> I am Johannes Nichoals</h2>
-<h2> https://joeyn.dev/ </h2>
+<h2> I am Johannes Nicholas</h2>
+https://joeyn.dev
 
 - 🔭 I’m currently working at planoverse.com.au (and weighter.com.au on the side)
 
